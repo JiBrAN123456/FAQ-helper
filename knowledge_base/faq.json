@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What is Flask?",
+        "answer": "Flask is a micro web framework written in Python."
+    },
+    {
+        "question": "How do I install Flask?",
+        "answer": "You can install Flask using the command: pip install flask."
+    }
+]
